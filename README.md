@@ -1,4 +1,4 @@
-## Hi there, I'm Victoria Bibikova 👋<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+## Hi there, I'm Victoria Bibikova <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 Junior QA Engineer.
 
@@ -20,7 +20,7 @@ Junior QA Engineer.
     <a href="mailto:bibikovavicky@gmail.com">
          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-
+</p>
 
 
 ## 🛠 Technical Stack
@@ -33,8 +33,13 @@ Junior QA Engineer.
 
 
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/bibikovavi/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div>
+<p align='center'>
+       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>   
+      <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white"/>
+
+</p>
