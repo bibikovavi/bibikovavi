@@ -1,7 +1,7 @@
 ## Hi there, I'm Victoria Bibikova <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 Junior QA Engineer. 
-/* <a href="https://bibikovavi.github.io./">CV (Russian)</a>
+<!-- <a href="https://bibikovavi.github.io./">CV (Russian)</a> --> 
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=bibikovavi&show_icons=true&count_private=true"><img
